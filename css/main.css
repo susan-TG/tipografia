@@ -4,13 +4,14 @@ div {
 	width: 240px;
 	height: 340px;
 	border: 0px;
-	background: #F6F4F4;
+	background: #FCFCFC;
 	left: 20px;
 	top: 20px;
 	margin-top: 0px;
-	margin-left: 0px;
+	margin-left: 4px;
 	display: inline-block;
 	position: relative;
+	float: left;
 }
 div:hover {
 	background:white;
@@ -29,26 +30,26 @@ div:hover h2, div:hover h6, div:hover p , div:hover .icon {
 .icon {
 	left: 100px;
 	top: 40px;
-	color: grey;
+	color: #01E8FD;
 	margin: 0px;
 	border: 0px;
 	font-size: 3em;
 	position: absolute;
 }
 h2 {
-	font-family: 'Lobster', cursive; font-size: 26px; color: grey;
+	font-family: 'Lobster', cursive; font-size: 26px; color: #01E8FD;
 	margin-top: 100px;
 	text-align: center;
 }
 
 h6 {
-	font-family: 'Josefin Sans',sans-serif; font-size: 15px; color: grey;
+	font-family: 'Josefin Sans',sans-serif; font-size: 15px; color: #01E8FD;
 	text-align: center;
 	margin: 0;
 	border: 0;
 }
 p {
-	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: grey;
+	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: #01E8FD;
 	text-align: justify;
 	padding: 20px;
 	margin-bottom: 0px;
