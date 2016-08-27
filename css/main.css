@@ -4,7 +4,7 @@ div {
 	width: 240px;
 	height: 340px;
 	border: 0px;
-	background: #F6F4F4;
+	background: #FBF9F9;
 	margin-top: 0px;
 	margin-left: 5px;
 	display: inline-block;
@@ -22,7 +22,7 @@ div:hover {
 }
 
 div:hover h2, div:hover p , div:hover .icon {
-	color: #DEEDEC;
+	color: #0CE8EB;
 }
 div:hover h2, div:hover h6, div:hover p , div:hover .icon {
 	-webkit-transform: scale(1.1);
