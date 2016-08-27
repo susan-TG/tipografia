@@ -7,7 +7,7 @@ div {
 	background: #FCFCFC;
 	left: 20px;
 	top: 20px;
-	margin-top: 0px;
+	margin-top: 0p;
 	margin-left: 4px;
 	display: inline-block;
 	position: relative;
@@ -30,8 +30,8 @@ div:hover h2, div:hover h6, div:hover p , div:hover .icon {
 	left: 100px;
 	top: 40px;
 	color: #01E8FD;
-	margin: 0px;
-	border: 0px;
+	margin: 0;
+	border: 0;
 	font-size: 3em;
 	position: absolute;
 }
@@ -51,7 +51,7 @@ p {
 	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: #01E8FD;
 	text-align: center;
 	padding: 20px;
-	margin-bottom: 0px;
-	margin-top: 0px;
+	margin-bottom: 0;
+	margin-top: 0;
 }
 
