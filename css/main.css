@@ -4,25 +4,23 @@ div {
 	width: 240px;
 	height: 340px;
 	border: 0px;
-	background: #FBF9F9;
+	background: #F6F4F4;
+	left: 20px;
+	top: 20px;
 	margin-top: 0px;
-	margin-left: 5px;
+	margin-left: 0px;
 	display: inline-block;
 	position: relative;
-	float: left;
-	text-align: center;
 }
 div:hover {
 	background:white;
-	-webkit-box-shadow: 12px 13px 8px -2px rgba(240,237,240,1);
-	-moz-box-shadow: 12px 13px 8px -2px rgba(240,237,240,1);
-	box-shadow: 12px 13px 8px -2px rgba(240,237,240,1);
-	-webkit-transform: scale(1.0);
-    transform: scale(1.0)
+	-webkit-box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
+	-moz-box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
+	box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
 }
 
 div:hover h2, div:hover p , div:hover .icon {
-	color: #0CE8EB;
+	color: #DEEDEC;
 }
 div:hover h2, div:hover h6, div:hover p , div:hover .icon {
 	-webkit-transform: scale(1.1);
@@ -51,9 +49,9 @@ h6 {
 }
 p {
 	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: grey;
-	padding-top: 20px;
-	padding-left: 10px;
-	padding-right: 10px;
+	text-align: justify;
+	padding: 20px;
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
-
 
