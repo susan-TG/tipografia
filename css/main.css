@@ -4,7 +4,7 @@ div {
 	width: 240px;
 	height: 340px;
 	border: 0px;
-	background: #FCFCFC;
+	background: black;
 	left: 20px;
 	top: 20px;
 	margin-top: 0p;
@@ -14,13 +14,13 @@ div {
 	float: left;
 }
 div:hover {
-	background:white;
+	background: white;
 	-webkit-box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
 	-moz-box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
 	box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
 }
 div:hover h2, div:hover p , div:hover .icon {
-	color: #DEEDEC;
+	color: #05FFD3;
 }
 div:hover h2, div:hover h6, div:hover p , div:hover .icon {
 	-webkit-transform: scale(1.1);
@@ -29,26 +29,26 @@ div:hover h2, div:hover h6, div:hover p , div:hover .icon {
 .icon {
 	left: 100px;
 	top: 40px;
-	color: #01E8FD;
+	color: white;
 	margin: 0;
 	border: 0;
 	font-size: 3em;
 	position: absolute;
 }
 h2 {
-	font-family: 'Lobster', cursive; font-size: 26px; color: #01E8FD;
+	font-family: 'Lobster', cursive; font-size: 26px; color: white;
 	margin-top: 100px;
 	text-align: center;
 }
 
 h6 {
-	font-family: 'Josefin Sans',sans-serif; font-size: 15px; color: #01E8FD;
+	font-family: 'Josefin Sans',sans-serif; font-size: 15px; color:#05FFD3;
 	text-align: center;
 	margin: 0;
 	border: 0;
 }
 p {
-	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: #01E8FD;
+	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: white;
 	text-align: center;
 	padding: 20px;
 	margin-bottom: 0;
