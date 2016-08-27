@@ -19,7 +19,6 @@ div:hover {
 	-moz-box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
 	box-shadow: 10px 10px 5px -8px rgba(240,237,240,1);
 }
-
 div:hover h2, div:hover p , div:hover .icon {
 	color: #DEEDEC;
 }
@@ -50,7 +49,7 @@ h6 {
 }
 p {
 	font-family: 'Open Sans Condensed', sans-serif; font-size: 15px; color: #01E8FD;
-	text-align: justify;
+	text-align: center;
 	padding: 20px;
 	margin-bottom: 0px;
 	margin-top: 0px;
