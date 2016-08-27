@@ -20,7 +20,11 @@ div:hover {
 }
 
 div:hover h2, div:hover p , div:hover .icon {
-	color: #E1DEDE;
+	color: #DEEDEC;
+}
+div:hover h2, div:hover h6, div:hover p , div:hover .icon {
+	-webkit-transform: scale(1.1);
+    transform: scale(1.1)
 }
 .icon {
 	left: 100px;
